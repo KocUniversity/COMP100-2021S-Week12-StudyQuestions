@@ -22,12 +22,10 @@ __Example 2:__
 x = n 
 while x > 0: 
   y = x 
-  
   while y > 0:
       y = y / 2 
    
   x = x / 2 
-} 
 ```
 __Your answer:__ ...
 
@@ -41,7 +39,6 @@ while x > 0:
   while y > 0:
       y = y - 1
   x = x / 2 
-} 
 ```
 __Your answer:__ ...
 
